@@ -1,0 +1,42 @@
+header a{
+    text-decoration:none;
+    color:white;
+    font-size:27px;
+}
+header ul{
+    margin:0;
+    padding:0;
+}
+header li{
+    float:none;
+    display:inline;
+    padding:30px 50px 100px 50px;
+}
+header .interactive:hover{
+    color:lightblue;
+    font-family:Times;
+    filter: drop-shadow(8px 8px 10px black);
+}
+header h1{
+    margin:0;
+    
+    float:left;
+    
+    padding:0 20px 5px 20px;
+    font-size:41px;
+    filter: drop-shadow(8px 8px 10px black);
+    color:#bcecda;
+}
+header{
+    background-color:grey;
+}
+body{
+    background-color:#aaaaaa;
+}
+.content{
+    
+    color:#ff8f00;
+}
+.current{
+    color:#222222;
+}
