@@ -40,3 +40,9 @@ body{
 .current{
     color:#222222;
 }
+
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
